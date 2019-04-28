@@ -3,7 +3,7 @@
 
 # Features
 
-  - Watch, search epg and set for the record.
+  - Watch and search epg and set for the record.
   - Set record even without epg, just like old good vhs recorder: time, channel, rec!
   
 ### Tech
