@@ -3,6 +3,20 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.2.0-beta - 2019-05-06
+### Added
+- Completed records list
+- Records play
+- Channel play (long tap on channel name)
+- Records delete
+- Device's streaming IP
+- Device's streaming port
+- Load program guide from streaming port
+### Changed
+- Config format. Need to re-add devices
+### Fixed
+- Bug fixes and other minor improvements
+
 ## 1.1.2-rc1 - 2019-05-03
 ### Changed
 - Record description is optional
