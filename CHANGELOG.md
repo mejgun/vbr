@@ -3,6 +3,12 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.2.3-beta - 2019-05-07
+### Added
+- Scheduled records icon
+### Fixed
+- Bug fixes and other minor improvements
+
 ## 1.2.2-beta - 2019-05-06
 ### Fixed
 - Bug fixes and other minor improvements
