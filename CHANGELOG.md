@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.3.0-beta - 2019-05-13
+### Added
+- Stop recording
+### Fixed
+- IPv6 support
+### Changed
+- Config format. Need to re-add devices
+
 ## 1.2.8-beta - 2019-05-11
 ### Added
 - Search divided by days
