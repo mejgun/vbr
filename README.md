@@ -7,12 +7,14 @@
   - Set recordings by date and time.
   - Set record even without epg, just like good old vhs recorder: time, channel, rec!
   - Manage recordings: stop, cancel, delete.
-  - Watch livetv and records.
+  - Watch livetv (long press on channel name) and records.
   - Works with multiple devices.
   
 ### Tech
 
-Requied minimal: Android 4.1, VBox device.
+  Requied: 
+   - Android 4.1
+   - VBox device
 
 ### Marketplaces
 
