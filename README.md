@@ -16,7 +16,7 @@
    - Android 4.1
    - VBox device
   
-  Setup for [remote access](http://community.vboxcomm.com/viewtopic.php?f=12&t=5) for access outside of your lan.
+  Setup for [remote access](http://community.vboxcomm.com/viewtopic.php?f=12&t=5) for access outside of your lan. (optional)
 
 ### Marketplaces
 
