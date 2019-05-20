@@ -3,10 +3,10 @@
 
 ## Features
 
-  - Watch livetv and records.
   - Search channel, program and description.
   - Set recordings by time.
   - Set record even without epg, just like good old vhs recorder: time, channel, rec!
+  - Watch livetv and records.
   - Works with multiple devices.
   
 ### Tech
