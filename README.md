@@ -11,6 +11,10 @@
 
 Requied minimal: Android 4.1, VBox device.
 
+### Marketplaces
+
+  - [Google Play] (https://play.google.com/store/apps/details?id=com.mejsoftware.vbox_recorder)
+
 ### Feedback
 
   - [VBox Forum](http://community.vboxcomm.com/viewtopic.php?f=14&t=525)
