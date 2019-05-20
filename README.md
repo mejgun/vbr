@@ -4,8 +4,9 @@
 ## Features
 
   - Search channel, program and description.
-  - Set recordings by time.
+  - Set recordings by date and time.
   - Set record even without epg, just like good old vhs recorder: time, channel, rec!
+  - Manage recordings: stop, cancel, delete.
   - Watch livetv and records.
   - Works with multiple devices.
   
