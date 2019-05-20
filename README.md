@@ -12,7 +12,7 @@
   
 ### Tech
 
-  Requied: 
+  Required minimal: 
    - Android 4.1
    - VBox device
 
