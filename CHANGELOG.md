@@ -3,6 +3,12 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.4.3-rc3 - 2019-08-06
+### Fixed
+- Inability to edit program name in manual recording
+### Added
+- First date display in program search
+
 ## 1.4.2-rc2 - 2019-07-27
 ### Fixed
 - Datepicker not showing on some devices
