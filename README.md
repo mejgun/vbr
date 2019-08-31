@@ -27,4 +27,8 @@
   - [VBox Forum](http://community.vboxcomm.com/viewtopic.php?f=14&t=525)
   - [Telegram group](http://t.me/vboxcomm_chat)
   - [Telegram channel](http://t.me/vboxcomm)
+  
+### Policy
+
+  - [Here is policy](https://github.com/mejgun/vbr/blob/master/POLICY.md)
 
