@@ -1,4 +1,4 @@
-# VBoxRec
+# VBRec for VBox XTi
   Unofficial VBox app
 
 ## Features
