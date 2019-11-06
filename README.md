@@ -21,6 +21,8 @@
 ### Marketplaces
 
   - [Google Play](https://play.google.com/store/apps/details?id=com.mejsoftware.vbox_recorder)
+  - [App Store](https://apps.apple.com/us/app/vbrec-for-vbox-xti/id1477864986)
+  
 
 ### Feedback
 
