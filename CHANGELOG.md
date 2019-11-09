@@ -3,7 +3,12 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.4.4-rc1 - 2019-08-09
+## 1.4.4-rc2 - 2019-11-09
+### Fixed
+- App name in launcher
+- App icon color
+
+## 1.4.4-rc1 - 2019-11-09
 ### Added
 - IOS version
 - AndoidX support
