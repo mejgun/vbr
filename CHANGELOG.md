@@ -3,40 +3,44 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.4.5-rc2 - 2019-12-29
+## 1.4.6 - 2020-01-03
+### Added
+- Theme change
+
+## 1.4.5b - 2019-12-29
 ### Fixed
 - Forced dark theme
 
-## 1.4.5-rc1 - 2019-12-28
+## 1.4.5 - 2019-12-28
 ### Fixed
 - Missing title program read bug
 ### Added
 - Dark mode (if system wide enabled)
 
-## 1.4.4-rc2 - 2019-11-09
+## 1.4.4b - 2019-11-09
 ### Fixed
 - App name in launcher
 - App icon color
 
-## 1.4.4-rc1 - 2019-11-09
+## 1.4.4 - 2019-11-09
 ### Added
 - IOS version
 - AndoidX support
 ### Fixed
 - App name
 
-## 1.4.3-rc3 - 2019-08-06
+## 1.4.3 - 2019-08-06
 ### Fixed
 - Inability to edit program name in manual recording
 ### Added
 - First date display in program search
 
-## 1.4.2-rc2 - 2019-07-27
+## 1.4.2 - 2019-07-27
 ### Fixed
 - Datepicker not showing on some devices
 - Negative duration sometimes on manual series recording (only info, did not affect the VBox device)
 
-## 1.4.1-rc1 - 2019-07-14
+## 1.4.1 - 2019-07-14
 ### Added
 - Recording now icon
 ### Fixed
@@ -49,22 +53,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Bug fixes and other minor improvements
 
-## 1.3.4-rc1 - 2019-07-06
+## 1.3.4 - 2019-07-06
 ### Added
 - Periodic recordings
 - Failed records show & remove
 
-## 1.3.3-rc2 - 2019-05-20
+## 1.3.3 - 2019-05-20
 ### Fixed
 - DatePicker on small screens
 ### Added
 - Contacts menu entry
 
-## 1.3.2-rc2 - 2019-05-17
+## 1.3.2 - 2019-05-17
 ### Added
 - Some UI tips added
 
-## 1.3.1-rc1 - 2019-05-15
+## 1.3.1 - 2019-05-15
 ### Fixed
 - Name & icon changed 
 
@@ -130,7 +134,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Bug fixes and other minor improvements
 
-## 1.1.2-rc1 - 2019-05-03
+## 1.1.2 - 2019-05-03
 ### Changed
 - Record description is optional
 ### Fixed
