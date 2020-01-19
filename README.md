@@ -35,4 +35,8 @@
 ### Policy
 
   - [Here is policy](https://github.com/mejgun/vbr/blob/master/POLICY.md)
+  
+### Support
+  - Patreon: https://www.patreon.com/antonl
+  - PayPal: https://www.paypal.me/antonles
 
