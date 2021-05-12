@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Records page density
 ### Added
 - Settings item (describe here)
+- Expanding records descriptions
 
 
 ## 1.6.0 - 2021-04-25
