@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Compatibility method for older devices
 - Navigation improvements
 
+
 - Build after build system and framework update
 
 ## 3.0.3 - 2022-10-29
