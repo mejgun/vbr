@@ -15,7 +15,7 @@
 ### Tech
 
   Required minimal: 
-   - Android 5.1 or iOS 11.0 
+   - Android 5.1 or iOS 12.0 
    - VBox TV Gateway device
   
   Setup for [remote access](http://community.vboxcomm.com/viewtopic.php?f=12&t=5) for access outside of your lan. (optional)
