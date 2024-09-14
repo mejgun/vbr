@@ -28,7 +28,7 @@
 
 ### Feedback
 
-  - [VBox Forum](http://community.vboxcomm.com/viewtopic.php?f=14&t=525)
+  - [VBox Forum](http://community.vboxcomm.com/viewtopic.php?f=14&t=525) - at the moment shows 403 so use web.archive.org
   - [Telegram group](http://t.me/vboxcomm_chat)
   - [Telegram channel](http://t.me/vboxcomm)
   
