@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Build system updates
 - Build environment updates
 
+## 3.3.5 - 2024-12 (not released into marketplaces)
+- Build system updates
+- Build environment updates
+
+## 3.3.4 - 2024-09-07
+- Build system updates only
+
 ## 3.3.3 - 2024-07-09
 - Build system updates only
 
