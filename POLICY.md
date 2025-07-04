@@ -1,4 +1,4 @@
-Privacy
+Privacy policy of VBRec for VBox XTi application.
 
 We don't store your data, period.
 
