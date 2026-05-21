@@ -5,6 +5,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 3.3.9  - 2026-05-21 (Last one requires android 5.1, ios 15.6, macos 12.5 with m1 chip)
 - Build system updates only
+- Preparation for the components update
   
 ## 3.3.7  - 2025-07-07 (requires android 5.1, ios 15.6, macos 12.5 with m1 chip)
 - Build system updates only
