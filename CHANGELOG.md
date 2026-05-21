@@ -3,6 +3,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 3.3.10  - 2026-05-21 (requires android 7.0, ios 15.6, macos 12.5 with m1 chip)
+- Massive build system update
+- Almost all plugins updated
+  
 ## 3.3.9  - 2026-05-21 (Last one requires android 5.1, ios 15.6, macos 12.5 with m1 chip)
 - Build system updates only
 - Preparation for the components update
